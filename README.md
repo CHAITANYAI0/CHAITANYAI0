@@ -18,4 +18,4 @@ My motivation for pursuing a career in data science stems from my early experien
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-<hr> <h3> My GitHub Analytics </h3> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya-inamdar&show_icons=true&locale=en&layout=compact&theme=merko" alt="chaitanya-inamdar" /></p><br> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-inamdar&&theme=merko" alt="chaitanya-inamdar" /></p>
+<hr> <h3> My GitHub Analytics </h3> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHAITANYAI0&show_icons=true&locale=en&layout=compact&theme=merko" alt="CHAITANYAI0" /></p><br> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHAITANYAI0&&theme=merko" alt="chaitanya-inamdar" /></p>
