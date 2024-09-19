@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hey there, Data Enthusiast! :eyes:</h1> <h3> Who Am I ? </h3>
+As a soon-to-graduate student from Northeastern University with a Master of Science in Information Systems, I’ve built a solid foundation in data science, machine learning, database management, and cloud technologies. I'm passionate about using data-driven insights to tackle complex business challenges and drive impactful results.
 
-<!--
-**CHAITANYAI0/CHAITANYAI0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning dbt and Snowflake
 
-Here are some ideas to get you started:
+💬 Ask me about Data Science, Machine Learning, and Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:chart_with_upwards_trend: Check out my <a href="https://public.tableau.com/app/profile/chaitanya.inamdar/viz/SalesDashboard_Version1/SalesDashboard?publish=yes" target="_blank">Tableau Visualizations</a>
+
+<hr> <h3> What I Bring To The Table ? </h3> <p> [![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=white)](https://www.python.org) [![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mySQL&logoColor=white"> <img src = "https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white"> <img src = "https://img.shields.io/badge/Snowflake-abf0ff?style=flat&logo=snowflake&logoColor=white"> <img src = "https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src = "https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white"> <img src="http://img.shields.io/badge/-Tableau-339933?style=flat&logo=tableau&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Looker-dc143c?style=flat&logo=looker&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazonrds&logoColor=white"> <img src = "https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"> [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org) <img src = "https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"> <img src = "https://img.shields.io/badge/Seaborn-4C2E91?style=flat&logo=Seaborn&logoColor=white"> <img src = "https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=googlecloud&logoColor=white"> </p> <hr> <h3> What's My Motivation ? </h3>
+During my Bachelor's in Computer Science, I developed a keen interest in data analysis and its potential to drive decision-making. My passion grew while working on real-world projects involving large datasets, particularly in the healthcare and retail sectors. Understanding the role of data in improving business operations, customer experience, and performance metrics fueled my desire to work in this field.
+
+<hr> <h3> What I Have Studied ? </h3> <ul> <li> <strong>Master of Science, Information Systems</strong> <br> <strong><em>Expected Dec 2024</em></strong> <br> <em>Northeastern University</em> <br> <em>Boston, MA</em> </li> </ul> <ul> <li> <strong>Bachelor of Technology, Computer Science and Engineering</strong> <br> <strong><em>May 2019</em></strong> <br> <em>Vellore Institute of Technology</em> <br> <em>TN, India</em> </li> </ul> <hr> <h3>🤝 &nbsp;Connect with Me !! </h3>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<hr> <h3> My GitHub Analytics </h3> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya-inamdar&show_icons=true&locale=en&layout=compact&theme=merko" alt="chaitanya-inamdar" /></p><br> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-inamdar&&theme=merko" alt="chaitanya-inamdar" /></p>
