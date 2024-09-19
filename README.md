@@ -14,7 +14,7 @@ As a soon-to-graduate student from Northeastern University with a Master of Scie
 My motivation for pursuing a career in data science stems from my early experiences with machine learning and data analysis. Working on projects that involved predictive modeling and data visualization revealed the profound impact that well-analyzed data can have on solving complex problems and driving decision-making. The ability to transform raw data into actionable insights and contribute to innovative solutions has continually fueled my passion for the field. I am driven by the challenge of leveraging data to uncover valuable patterns and support strategic initiatives.
 
 <hr> <h3> What I Have Studied ? </h3> <ul> <li> <strong>Master of Science, Information Systems</strong> <br> <strong><em>Expected Dec 2024</em></strong> <br> <em>Northeastern University</em> <br> <em>Boston, MA</em> </li> </ul> <ul> <li> <strong>Bachelor of Technology, Computer Science and Engineering</strong> <br> <strong><em>May 2019</em></strong> <br> <em>Vellore Institute of Technology</em> <br> <em>TN, India</em> </li> </ul> <hr> <h3>🤝 &nbsp;Connect with Me !! </h3>
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+<a href="https://www.linkedin.com/in/chaitanya-inamdar98/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
