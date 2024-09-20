@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, Data Enthusiast! :eyes:</h1> <h3> Who Am I ? </h3>
 As a soon-to-graduate student from Northeastern University with a Master of Science in Information Systems, I’ve built a solid foundation in data science, machine learning, database management, and cloud technologies. I'm passionate about using data-driven insights to tackle complex business challenges and drive impactful results.
 
-🌱 I’m currently learning dbt and Snowflake
+🌱 I’m currently learning ML techniques and AWS tools.
 
 💬 Ask me about Data Science, Machine Learning, and Visualization
 
